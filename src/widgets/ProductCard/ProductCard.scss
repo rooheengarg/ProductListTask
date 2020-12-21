@@ -1,0 +1,23 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  border: 1px solid #eee;
+  width: 300px;
+  height: 320px;
+}
+
+.margin-16 {
+  margin: 16px;
+}
+
+.textCss {
+  text-align: center;
+  margin-top: 5px;
+}
+
+.brand {
+  font-weight: bold;
+}
